@@ -1,0 +1,5 @@
+﻿  Elgamal.cpp
+c:\users\swalishe\desktop\crypto\elgamal\elgamal\elgamal.cpp(28): warning C4091: 'typedef ': ignored on left of 'privateandpublickey' when no variable is declared
+c:\users\swalishe\desktop\crypto\elgamal\elgamal\elgamal.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Elgamal.vcxproj -> C:\Users\SWalishe\Desktop\Crypto\Elgamal\Debug\Elgamal.exe
+  Elgamal.vcxproj -> C:\Users\SWalishe\Desktop\Crypto\Elgamal\Debug\Elgamal.pdb (Partial PDB)
